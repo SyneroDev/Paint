@@ -1,0 +1,4 @@
+discord
+git+https://github.com/vcokltfre/template-bot-v2
+git+https://github.com/LiBa001/disputils
+python-dotenv
